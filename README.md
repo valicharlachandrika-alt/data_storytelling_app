@@ -1,31 +1,25 @@
-
----
-
-# 📘 2. README.md – Students Dataset Project
-
-```md id="stu1"
-# 🎓 Students Data Analysis App
+# 🎓 Students Data Analysis Dashboard
 
 ## 🚀 Project Overview
-This project is a Streamlit-based data analysis tool that explores student performance data.  
-It helps to analyze marks, attendance, and department-wise performance.
+This project is a Streamlit-based interactive dashboard that analyzes student performance data.  
+It helps to understand marks, attendance, and department-wise performance using visualizations.
 
 ---
 
-## 📊 Features
+## 📂 Features
 
-- 📂 Upload students CSV file
 - 📄 Dataset preview
+- 🧹 Data cleaning (handling missing values)
 - 📊 Statistical summary
-- ❌ Missing value analysis
 - 🎓 Marks analysis
 - 🏫 Department-wise performance
 - 📍 City-wise analysis
+- 👥 Gender-based comparison
 - 📈 Interactive visualizations
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
 - Python
 - Streamlit
