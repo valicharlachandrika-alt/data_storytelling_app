@@ -1,0 +1,16 @@
+student_id,name,gender,age,department,marks,attendance,city
+1,Ravi,M,20,CSE,85,90,Vijayawada
+2,Sita,F,19,CSE,92,95,Guntur
+3,Arjun,M,21,ECE,78,80,Hyderabad
+4,Divya,F,20,CSE,88,85,Vijayawada
+5,Kiran,M,22,MECH,70,75,Tirupati
+6,Lakshmi,F,19,ECE,95,98,Guntur
+7,John,M,21,CSE,65,60,Chennai
+8,Anusha,F,20,MECH,82,88,Vijayawada
+9,Varun,M,22,ECE,74,70,Hyderabad
+10,Priya,F,21,CSE,90,92,Guntur
+11,Rahul,M,20,MECH,60,65,Chennai
+12,Sneha,F,19,CSE,98,99,Vijayawada
+13,Manoj,M,21,ECE,77,78,Hyderabad
+14,Keerthi,F,20,CSE,84,86,Guntur
+15,Akash,M,22,MECH,69,72,Tirupati
