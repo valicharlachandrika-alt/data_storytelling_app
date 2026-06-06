@@ -1,18 +1,27 @@
-# 📖 Data Storytelling App
-
-## 🚀 Overview
-This project is a Streamlit-based Data Storytelling application that helps users explore datasets visually and understand insights easily.
 
 ---
 
-## 📌 Features
+# 📘 2. README.md – Students Dataset Project
 
-- 📂 CSV file upload
-- 🔍 Dataset preview
-- ❌ Missing value analysis
+```md id="stu1"
+# 🎓 Students Data Analysis App
+
+## 🚀 Project Overview
+This project is a Streamlit-based data analysis tool that explores student performance data.  
+It helps to analyze marks, attendance, and department-wise performance.
+
+---
+
+## 📊 Features
+
+- 📂 Upload students CSV file
+- 📄 Dataset preview
 - 📊 Statistical summary
-- 📈 Data visualizations (histogram, scatter plots)
-- 🧠 Automated insights
+- ❌ Missing value analysis
+- 🎓 Marks analysis
+- 🏫 Department-wise performance
+- 📍 City-wise analysis
+- 📈 Interactive visualizations
 
 ---
 
@@ -21,7 +30,10 @@ This project is a Streamlit-based Data Storytelling application that helps users
 - Python
 - Streamlit
 - Pandas
+- NumPy
 - Plotly
+- Matplotlib
+- Seaborn
 
 ---
 
